@@ -12,7 +12,7 @@ A repository with only readme.md that presents my experience
 
    * My main work in this study is to collect training data from volunteers and use NN to construct a classifier for identifying and distinguishing the characters written by app users. It performs well in the study, with an accuracy over 90%.
 
-   * ![the data for model training collected from volunteers, letter a is written in the we designed for visually impaired people, aberrant from the usual handwritten form of a](C:\Users\LYDIA\AppData\Roaming\Typora\typora-user-images\image-20210206222110894.png)
+   * ![the data for model training collected from volunteers, letter a is written in the we designed for visually impaired people, aberrant from the usual handwritten form of a](./picture/LightWrite-CollectedTrainingData.PNG)
 
      ​	(the data for model training collected from volunteers, letter a is written in the we designed for visually impaired people, aberrant from the usual handwritten form of a)
 
